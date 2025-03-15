@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem 1. Regression.md",
+                "file": "Problem Reports/Problem 3 Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem 1. Regression"
+              "title": "Problem 3 Report"
             }
           }
         ]
@@ -168,19 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af95c65dd173d1ee",
+  "active": "80d26fc3a0e2a5b1",
   "lastOpenFiles": [
-    "Data/Q3/q3_validation.mat",
-    "Data/Q3/q3_train.mat",
-    "Data/Q3/q3_test.mat",
-    "Data/Q2/validation.csv",
-    "Data/Q2/training.csv",
-    "Data/Q2/testing.csv",
-    "Data/Q1/communities_train.csv",
-    "Data/Q1/communities_val.csv",
-    "Data/Q1/communities_test.csv",
-    "Data/Q1/Communities_Info.txt",
-    "Data/Q3",
+    "Problem Reports/Problem 2 Report.md",
+    "Problem Reports/Problem 3 Report.md",
+    "Problem Reports/Problem 1 Report.md",
+    "Problem 1. Regression.md",
+    "Problem 3. Training and Adapting Deep Networks.md",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/widgets.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/utils.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/relational.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/regression.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/rcmod.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/palettes.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/objects.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/miscplot.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/matrix.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn/__pycache__/distributions.cpython-312.pyc",
+    "env/lib/python3.12/site-packages/seaborn-0.13.2.dist-info/LICENSE.md",
     "env/lib/python3.12/site-packages/notebook/static/be0a084962d8066884f7.svg",
     "env/lib/python3.12/site-packages/notebook/static/a3b9817780214caf01e8.svg",
     "env/lib/python3.12/site-packages/notebook/static/9674eb1bd55047179038.svg",
@@ -203,8 +208,6 @@
     "env/lib/python3.12/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.md",
     "env/lib/python3.12/site-packages/scipy/fft/_pocketfft/LICENSE.md",
     "env/lib/python3.12/site-packages/numpy/random/LICENSE.md",
-    "Problem 3. Training and Adapting Deep Networks.md",
-    "Problem 1. Regression.md",
     "Problem 2. Classification.md"
   ]
 }
