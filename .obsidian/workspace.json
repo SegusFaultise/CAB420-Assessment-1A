@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Reports/Problem 1 Report.md",
+                "file": "Problem 1. Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem 1 Report"
+              "title": "Problem 1. Regression"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "af95c65dd173d1ee",
   "lastOpenFiles": [
+    "Problem Reports/Problem 1 Report.md",
     "env/lib/python3.12/site-packages/sklearn/linear_model/_glm/__pycache__/glm.cpython-312.pyc.127162834760496",
     "env/lib/python3.12/site-packages/sklearn/metrics/__pycache__/_classification.cpython-312.pyc.127162832161648",
     "env/lib/python3.12/site-packages/sklearn/metrics/__pycache__/pairwise.cpython-312.pyc.127162835141616",
@@ -181,9 +182,7 @@
     "env/lib/python3.12/site-packages/matplotlib/axes/__pycache__/_axes.cpython-312.pyc.127162879569648",
     "env/lib/python3.12/site-packages/matplotlib/__pycache__/offsetbox.cpython-312.pyc.127162882551008",
     "env/lib/python3.12/site-packages/matplotlib/axes/__pycache__/_base.cpython-312.pyc.127162882545024",
-    "env/lib/python3.12/site-packages/matplotlib/__pycache__/figure.cpython-312.pyc.127162882543792",
     "Problem 1. Regression.md",
-    "Problem Reports/Problem 1 Report.md",
     "Problem Reports/Problem 3 Report.md",
     "Untitled.md",
     "Images/Residuals_vs_FittedValues.png",
