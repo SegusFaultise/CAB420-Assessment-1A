@@ -1,3 +1,9 @@
 {
-  "lockedExtensions": {}
+  "disabledExtensions": {
+    "axlair-jupyterlab-vim": true,
+    "ryantam626-jupyterlab-vim": true
+  },
+  "lockedExtensions": {
+    "axlair-jupyterlab-vim": true
+  }
 }
